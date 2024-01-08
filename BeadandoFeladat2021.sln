@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeadandoFeladat2021", "BeadandoFeladat2021\BeadandoFeladat2021.csproj", "{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B32E364D-828F-46F2-AB26-A9A194E8CCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeadandoFeladat2021.Unit.Test", "BeadandoFeladat2021.Unit.Test\BeadandoFeladat2021.Unit.Test.csproj", "{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CD9463-3EAF-47F0-AF2A-A0BE37A61907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9FA2B26-BEC5-4418-A8B0-654A23C41CF9} = {B32E364D-828F-46F2-AB26-A9A194E8CCD1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A0EAB1-088F-498A-925E-95AC492DD3C8}
+	EndGlobalSection
+EndGlobal

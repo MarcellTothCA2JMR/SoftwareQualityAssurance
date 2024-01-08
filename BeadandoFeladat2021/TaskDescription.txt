@@ -1,0 +1,41 @@
+﻿Beadási határidő:2021.11.29 23:59
+
+1. Töltsd le a zip állományt Teams-ről
+2. Készíts egy saját repositoryt gitlabon, ott folytasd a munkát (commit-okra figyelj) Projekt neve: Neptunkód_név legyen pl. XM2FWN_BorikMario
+3. Futtass egy statikus kódanalízist Sonarqube-al, majd az eredményt töltsd fel a Sonarqube mappába (main page-ről screenshot elegendő)
+4. Írj unit teszteket az alábbi feladatokra a Tests mappa alá 
+
+DemeritPointsCalculator (Büntetőpont kalkulátor)
+	Bemenet: speed
+	Visszatérési érték büntető pont.
+	A megengedett sebesség 50km/h és a maximális sebesség 180km/h
+	Minden plusz 10km/h esetén jár egy büntetőpont. (60km/h -> 1 ; 70km/h -> 2...)
+
+FizzBuzz
+	Bemenet egy int
+	Kimenet pedig egy string
+	osztható 3-mal, akkor írja ki, hogy Fizz
+	osztható 5-el, akkor írja ki, hogy Buzz
+	osztható 15-el, akkor írja ki, hogy FizzBuzz
+	Ellenkező esetben pedig a számot
+
+LeapYear
+	Beadunk egy évszámot, ha szökőév visszatér True-val, ha nem akkor False-al
+
+Mathematics
+		Matematikai funkciók tesztelése
+		Két szám összeadása
+		Két szám közül melyik a nagyobb
+		Melyek a páratlan számok egy adott számig (Kilistázza a páratlan számokat)
+
+NumberToword
+	Beaunk egy számot és ezt angolul iratjuk ki, mint például
+	-99 --> minus ninety-nine
+	43112603 --> forty three million, one hundred and twelve thousand, six hundred and three
+	https://imprevo.hu/blog/angol-sz%C3%A1mok
+	LEhetséges megoldások: 2,100 – two thousand, one hundred (US) vagy two thousand and one hundred (Br) 
+	BR szerint van megírva tehátAnd van használva
+
+
+5. Push a repositoryhoz
+6. Adj hozzá a repositoryhoz mainaner joggal (gitlab ID: @borikmario88)

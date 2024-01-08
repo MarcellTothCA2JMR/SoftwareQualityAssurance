@@ -1,0 +1,15 @@
+﻿C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\DemeritPointsCalculatorTests.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\FizzBuzzTests.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\LeapYearTests.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\MathemathicsTests.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\NumberToWordsTests.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\Properties\AssemblyInfo.cs
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\Mono.Cecil.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\Mono.Cecil.Mdb.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\Mono.Cecil.Pdb.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\Mono.Cecil.Rocks.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\nunit.core.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\nunit.core.interfaces.dll
+C:\Users\marce\ca2jmr_tothmarcell\packages\NUnitTestAdapter.2.3.0\build\nunit.util.dll
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021.Unit.Test\packages.config

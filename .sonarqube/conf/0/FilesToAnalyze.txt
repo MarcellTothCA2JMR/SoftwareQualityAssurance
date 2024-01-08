@@ -1,0 +1,9 @@
+﻿C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\DemeritPointsCalculator.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\FizzBuzz.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\LeapYear.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\Mathemathics.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\NumberToWords.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\Program.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\Properties\AssemblyInfo.cs
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\TaskDescription.txt
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\App.config

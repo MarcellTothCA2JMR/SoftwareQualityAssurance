@@ -1,0 +1,9 @@
+f
+]C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\DemeritPointsCalculator.csutf-8W
+NC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\FizzBuzz.csutf-8W
+NC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\LeapYear.csutf-8[
+RC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\Mathemathics.csutf-8\
+SC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\MainPrograms\NumberToWords.csutf-8I
+@C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\Program.csutf-8Y
+PC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\Properties\AssemblyInfo.csutf-8}
+rC:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\obj\Debug\.NETFramework,Version=v4.6.2.AssemblyAttributes.csutf-8

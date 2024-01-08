@@ -1,0 +1,14 @@
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csprojAssemblyReference.cache
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.CoreCompileInputs.cache
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe.config
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.pdb
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.exe
+D:\UserData\mario.borik\OneDrive - Siemens AG\ELTE_2020_félév\BeadandoFeladat2021\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.pdb
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe.config
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.exe
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\bin\Debug\BeadandoFeladat2021.pdb
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.AssemblyReference.cache
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.csproj.CoreCompileInputs.cache
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.exe
+C:\Users\marce\ca2jmr_tothmarcell\BeadandoFeladat2021\obj\Debug\BeadandoFeladat2021.pdb
